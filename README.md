@@ -41,14 +41,10 @@ To run the application execute app.py
   python app.py
 ```
 
-## Demo
-
-* [Documentation](https://drive.google.com/file/d/1Plv6hl9J_NYnsVLFQqnaSEAFlhZNucZU/view?usp=sharing)
-* [Demo Video](https://youtu.be/pRTdgs3u42M)
 
 ## Scope of the project 
 
 Facial recognition is becoming more prominent in our society. It has made major progress in the field of security. COVID-19 has been one of the greatest accelerators of facial recognition technology with the adoption by companies throughout the world as a method of reducing the contact points for customers and staff.  Face recognition is one of the newer developments of biometric identifiers that doesn’t require as much time or intrude on the person its verifying. Other biometric identifiers, such as fingerprint scanners and voice recognition, requires many different pieces in order to function. This project serves as a foundation for future projects based on facial detection and recognition. This project also convers web development and database management with a user-friendly UI. Using this system any corporate offices, school and organization can replace their traditional way of maintaining attendance of the employees and can also generate their attendance reports. 
 
 ## Need any help?
-##### Connect me on [LinkedIn](https://www.linkedin.com/in/manisha-varshney-914646191/)  <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" width="25"> 
+##### Connect me on [LinkedIn] https://www.linkedin.com/in/ojas-kale-0607a6218/
