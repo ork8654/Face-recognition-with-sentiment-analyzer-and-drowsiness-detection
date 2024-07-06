@@ -1,4 +1,4 @@
-This project is a web application demonstrating the use of facial recognition for marking attendance, scanning sentiment analysis and detecting drowsiness. It can be used by the company to manage attendance of its employees and generate attendance report/stats, along with using sentiment analyzer for detecting the employees's sentiments. Also it can detect drowsiness in drivers. This project was done during the internship at tata motors
+This project is a web application demonstrating the use of facial recognition for marking attendance, scanning sentiment analysis and detecting drowsiness. It can be used by the company to manage attendance of its employees and generate attendance report/stats, along with using sentiment analyzer for detecting the employees's sentiments. Also it can detect drowsiness in drivers. This project was done during the internship at Tata Motors
 
  Tech Stack:
 - Python
