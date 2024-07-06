@@ -1,17 +1,14 @@
-# Face-Recognition-Based-Employee-Attendance-Logger
+This project is a web application demonstrating the use of facial recognition for marking attendance, scanning sentiment analysis and detecting drowsiness. It can be used by the company to manage attendance of its employees and generate attendance report/stats, along with using sentiment analyzer for detecting the employees's sentiments. Also it can detect drowsiness in drivers. This project was done during the internship at tata motors
 
-This project is a web application demonstrating the use of facial recognition for marking attendance. It can be used by the company to manage attendance of its employees and generate attendance report/stats. It Reduces manual process errors by providing automated and a reliable attendance system that uses face recognition technology.
-
-## Tech Stack
+ Tech Stack:
 - Python
 - Flask Framework
 - HTML
 - CSS
 - JavaScript
 - SQLite
-
-## Built Using
-
+- 
+ Built by using the following libraries: 
  - [openCV](https://github.com/opencv/opencv) - Open Source Computer Vision and Machine Learning software library
  - [dlib](https://github.com/davisking/dlib) - C++ Library containing Machine Learning Algorithms
  - [face_recognition](https://github.com/ageitgey/face_recognition) - by Adam Geitgey
@@ -19,13 +16,11 @@ This project is a web application demonstrating the use of facial recognition fo
  - [Flask](https://github.com/pallets/flask) - Python framework for web development
  - SQLite database
 
-Note: Python version 3.8.13 was used for this project.
+Note: Python version 3.12 was used for this project.
 
 
-## How to run?
-
+How to run?
 First Download Zip or Clone the Project on Your Local Machine.
-
 cd to the directory where root file is located
 
 Create a virtual environment with all the dependencies
@@ -41,10 +36,9 @@ To run the application execute app.py
   python app.py
 ```
 
-
-## Scope of the project 
-
-Facial recognition is becoming more prominent in our society. It has made major progress in the field of security. COVID-19 has been one of the greatest accelerators of facial recognition technology with the adoption by companies throughout the world as a method of reducing the contact points for customers and staff.  Face recognition is one of the newer developments of biometric identifiers that doesn’t require as much time or intrude on the person its verifying. Other biometric identifiers, such as fingerprint scanners and voice recognition, requires many different pieces in order to function. This project serves as a foundation for future projects based on facial detection and recognition. This project also convers web development and database management with a user-friendly UI. Using this system any corporate offices, school and organization can replace their traditional way of maintaining attendance of the employees and can also generate their attendance reports. 
+Scope of the project: 
+Facial recognition is becoming increasingly prominent in our society, significantly advancing the field of security. The COVID-19 pandemic has accelerated the adoption of facial recognition technology by companies worldwide, aiming to reduce contact points for customers and staff. Unlike other biometric identifiers, such as fingerprint scanners and voice recognition, facial recognition is less time-consuming and less intrusive.
+This project lays the groundwork for future endeavors involving facial detection and recognition. It also encompasses web development and database management, featuring a user-friendly interface. Using this system, corporate offices, schools, and organizations can replace traditional methods of employee attendance tracking and easily generate attendance reports.
 
 ## Need any help?
 ##### Connect me on [LinkedIn] https://www.linkedin.com/in/ojas-kale-0607a6218/
